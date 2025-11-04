@@ -1,4 +1,4 @@
-# 🕵️ FORENSIS-AI - Universal Forensic Data Report Analysis Platform
+# 🕵️ FORENSIS-AI - UFDR Triage MVP
 
 An advanced digital forensics solution leveraging artificial intelligence to analyze Universal Forensic Data Reports (UFDR) through behavioral intelligence, pattern recognition, and automated investigative triage.
 
